@@ -1,0 +1,1 @@
+# InsightSquared-take-home
